@@ -1,0 +1,13 @@
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\berkay.ozdemir\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
